@@ -1,9 +1,8 @@
+flask
+gunicorn
 google-generativeai
 python-dotenv
-PyMuPDF
 markdown
 markdownify
-streamlit
-pypandoc
-gensim
 plotly
+pypandoc
