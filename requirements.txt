@@ -5,8 +5,5 @@ markdown
 markdownify
 streamlit
 pypandoc
-spacy
 gensim
-streamlit_pdf_viewer
-streamlit==1.27.2
 plotly
